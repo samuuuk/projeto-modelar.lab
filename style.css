@@ -1,0 +1,66 @@
+body {
+  text-align: center;
+  /*background-image:url(images/tijolinhos.jpg)*/
+}
+
+#logomarca {
+  text-align: center;
+  padding: auto;
+  margin: 0px auto 0px;
+  width: 550px;
+}
+
+#body {
+  width: 592px;
+  margin: 35px auto 0px;
+  background: #ffffff;
+  padding: 5px;
+  /*border-bottom: 2px red solid;*/
+}
+
+h1 {
+  font-family: 'Epilogue', sans-serif;
+  font-size: 44px;
+  line-height: 45px;
+  font-weight: normal;
+}
+
+h1 span {
+  color: red;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Epilogue', sans-serif;
+  color: #434343;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+span {
+  color: red;
+}
+
+a {
+  font-family: 'Epilogue', sans-serif;
+  color: red;
+  font-weight: bold;
+}
+
+#footer {
+  padding-top: 80px;
+  border-top: red;
+  margin-bottom: 50px;
+  font-size: 15px;
+}
+
+a + a{
+  margin-left: 30px;
+}
+
+.line {
+  width: 594px;
+  height: 0px;
+  margin: 15px auto 15px;
+  border-top: 2px red solid;
+}
